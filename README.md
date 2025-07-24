@@ -1,3 +1,3 @@
 # Projects
 
-All my past and future projects will be stored here. 
+All my past and future mini projects will be stored here. 
